@@ -68,3 +68,40 @@ h4 {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
+
+// Dark theme enhancements
+code {
+  background-color: #2d2d2d;
+  color: #f8f8f2;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: $body-font;
+}
+
+pre {
+  background-color: #2d2d2d;
+  color: #f8f8f2;
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+  border: 1px solid $border-color;
+  
+  code {
+    background-color: transparent;
+    padding: 0;
+  }
+}
+
+blockquote {
+  border-left: 4px solid $primary-color;
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  background-color: rgba(255, 153, 0, 0.1);
+  border-radius: 0 5px 5px 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $border-color;
+  margin: 2rem 0;
+}
