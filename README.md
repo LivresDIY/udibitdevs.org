@@ -1,4 +1,4 @@
-# BitDevs em Português
+# Uberlândia BitDevs
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -23,7 +23,7 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
+meetup: https://www.meetup.com/livres-diy/events/[event id here]/
 ---
 ```
 
