@@ -24,4 +24,30 @@
       }
     }
   }
+
+  &-content {
+    ol, ul {
+      list-style: disc;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      padding-left: 2em;
+    }
+
+    ul ul {
+      margin-block-start: 0px;
+      margin-block-end: 0px;
+    }
+
+    li:before {
+      content: initial;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+    }
+
+    li p {
+      margin-bottom: 0;
+    }
+  }
 }
