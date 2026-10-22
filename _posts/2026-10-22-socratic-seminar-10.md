@@ -5,7 +5,11 @@ title: "Seminário Socrático 10"
 ---
 ## Avisos
 - Respeite a privacidade dos participantes;
-- Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
+- **Atenção: excepcionalmente, esta edição será gravada.** Nossos meetups normalmente nunca são gravados. Nesta:
+  - Capturamos apenas o **áudio da conversa** e o **vídeo da tela** — a imagem dos participantes não é gravada;
+  - A transcrição é feita por um **modelo próprio de IA, rodando localmente**. Nada é enviado para serviços de terceiros;
+  - A gravação serve só para gerar um resumo da discussão, que será publicado depois, e é **deletada em seguida**;
+  - Nenhum nome ou identificação dos participantes entra no resumo.
 
 ## Formato
 
@@ -35,3 +39,9 @@ https://github.com/LivresDIY/udibitdevs.org/issues/13
   - [MagicalTux (2)](https://x.com/MagicalTux/status/2108576506704548179)
 
 - [Kickoff da testnet5 com a Vinteum](https://x.com/ajtowns/status/2112725787745092027)
+
+## Formulário
+
+Deixe seu feedback e sugestões: [https://forms.gle/VbNte8nYv7x47sP59](https://forms.gle/VbNte8nYv7x47sP59)
+
+<p style="text-align: center;"><a href="https://forms.gle/VbNte8nYv7x47sP59"><img src="/assets/img/forms-seminario-10.svg" alt="QR Code" width="240" height="240"></a></p>
